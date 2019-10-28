@@ -1,9 +1,9 @@
 # SVD-Image-Processing
 Applying Linear Algebra Singular Value Decomposition (SVD) to image matrices
 
-Jupyter notebooks are currently not loading online (they are still downloadable) due to a possible sourcing issue.
+If the Jupyter notebooks are unable to load online (they are still downloadable) due to a possible sourcing issue,
 
-Right-click on a notebook and select Copy link address and then paste it into the box which reads
+Then right-click on a notebook and select Copy link address and then paste it into the box which reads
 "Enter the location of a Jupyter Notebook to have it rendered here:"
 
 on the Nbviewer Online page to view the notebooks:
