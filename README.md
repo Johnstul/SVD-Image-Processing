@@ -1,5 +1,7 @@
 # SVD-Image-Processing
-Applying Linear Algebra Singular Value Decomposition (SVD) to image matrices
+## Applying Linear Algebra Singular Value Decomposition (SVD) to image matrices
+
+## Python code created by Debananda Chakraborty and John Stulich
 
 If the Jupyter notebooks are unable to load online (they are still downloadable) due to a possible sourcing issue,
 
