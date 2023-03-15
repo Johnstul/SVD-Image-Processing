@@ -3,18 +3,14 @@
 
 ## Python code created by Debananda Chakraborty and John Stulich
 
-If the Jupyter notebooks are unable to load online (they are still downloadable) due to a possible sourcing issue,
-
-Then right-click on a notebook and select Copy link address and then paste it into the box which reads
-"Enter the location of a Jupyter Notebook to have it rendered here:"
-
-on the Nbviewer Online page to view the notebooks:
+You can also use the Nbviewer Online page to view the notebook:
 
 https://nbviewer.jupyter.org/
 
-Or just copy and paste the links below into the box on the Nbviewer Online page
+https://nbviewer.org/github/Johnstul/SVD-Image-Processing/blob/master/GWB_Various_Stat_Analysis_Tests_Condensed_1a.ipynb
 
-Notebook links:
-https://github.com/Johnstul/SVD-Image-Processing/blob/master/JS_Image_Eigen_Reduce_1a.ipynb
+https://nbviewer.org/github/Johnstul/SVD-Image-Processing/blob/master/JS_Cat_Image_Eigen_Reduce_1a.ipynb
 
-https://github.com/Johnstul/SVD-Image-Processing/blob/master/JS_Cat_Image_Eigen_Reduce_1a.ipynb
+https://nbviewer.org/github/Johnstul/SVD-Image-Processing/blob/master/JS_Image_Eigen_Reduce_1a.ipynb
+
+https://nbviewer.org/github/Johnstul/SVD-Image-Processing/blob/master/JS_Various_Stat_Analysis_Tests_1a.ipynb
